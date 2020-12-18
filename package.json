@@ -1,6 +1,6 @@
 {
-  "name": "react-scrollspy",
-  "version": "3.4.3",
+  "name": "react-typescript-scrollspy",
+  "version": "1.0.0",
   "description": "react scrollspy component",
   "main": "./lib/scrollspy.js",
   "files": [
@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/makotot/react-scrollspy.git"
+    "url": "https://github.com/quantcopy/react-typescript-scrollspy.git"
   },
   "author": "makotot",
   "license": "MIT",
