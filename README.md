@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-$ npm i react-scrollspy
+$ yarn add https://github.com/<username>/<repository>/tarball/master @types/react-scrollspy
 ```
 
 
